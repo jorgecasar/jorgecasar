@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Design Tokens and Automate Design Systems
+- 🌱 I’m currently learning Sketch (Sketch constructor), Style Dyctionary
+- 💬 Ask me about:
+  - 🧩 Web Components (LitElement)
+  - 🤖 Actions on Google (Google Asssistant)
+- 📫 How to reach me: [@JorgeCasar](https://twitter.com/jorgecasar)
+
 <!--
 **jorgecasar/jorgecasar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
