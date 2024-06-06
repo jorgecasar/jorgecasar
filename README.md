@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Design Tokens and Automate Design Systems
-- 🌱 I’m currently learning Sketch (Sketch constructor), Style Dyctionary
+- 🔭 I am Engineering Manager
+- 🌱 I have strong technical background and communication skills
+- 👯 I’m looking to collaborate on helping people be more efficient
 - 💬 Ask me about:
-  - 🧩 Web Components (LitElement)
-  - 🤖 Actions on Google (Google Asssistant)
+  - 👥 Leading Tech Teams
+  - 🧩 Web Components (<lit.dev>)
 - 📫 How to reach me: [@JorgeCasar](https://twitter.com/jorgecasar)
+- 👨‍💻 Visit my website: <https://jorgecasar.es>
 
 <!--
 **jorgecasar/jorgecasar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
